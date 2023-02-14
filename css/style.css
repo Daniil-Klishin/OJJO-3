@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+
+}
+header{
+    background-image: url(../assets/bgc.png);
+    height: 950px;
+    width: 1920;
+    color: white;
+    
+}
+.nav-links{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.nav-link{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    justify-content: center;
+}
+.btn{
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin-right: 15px;
+    font-style: normal;
+    opacity: 0.2;
+    
+
+}
+
